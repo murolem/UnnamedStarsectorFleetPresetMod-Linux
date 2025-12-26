@@ -1,8 +1,8 @@
 {
-    "id": "fleet_preset_manager",
-    "name": "Fleet Presets Manager",
-    "author": "rolfos",
-    "version": "0.1.2a",
+    "id": "fleet_preset_manager_linux",
+    "name": "Fleet Presets Manager (Linux)",
+    "author": "rolfos, aliser (Linux build)",
+    "version": "0.1.2a-L",
     "description": "Save fleet presets and load them from market storage.",
     "gameVersion": "0.98a-RC8",
     "modPlugin": "data.scripts.FleetPresetManagerPlugin",
